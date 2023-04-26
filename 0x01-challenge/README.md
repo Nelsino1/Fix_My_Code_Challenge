@@ -25,7 +25,7 @@ You should not recode everything, just fix it!
 
 ## Manual QA Review
 
-**It is your responsibility to request a review for this project from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a TA or staff member.**
+**It is you responsibility to request a review for this project from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a TA or staff member.**
 
 # Tasks
 ## 0. Server status
